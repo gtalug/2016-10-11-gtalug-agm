@@ -6,7 +6,7 @@
 
 ---
 
-## Treasure Update with *Christopher Browne*.
+## Treasury Update with *Christopher Browne*.
 
 ---
 
@@ -23,7 +23,7 @@
 ^ You have to be at least eighteen years old.
 You have to be a member of GTALUG organisation or become one within ten days of getting elected.
 No undischarged bankrupt shall become a board member.
-The ability to regularly attend GTALUG board meetings. They currently happen on the forth Monday of the month at HackLab.TO (located at Queen Street West and Dufferin Street).
+The ability to regularly attend GTALUG board meetings. They currently happen on the fourth Monday of the month at HackLab.TO (located at Queen Street West and Dufferin Street).
 
 ---
 
