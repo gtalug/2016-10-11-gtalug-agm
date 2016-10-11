@@ -10,7 +10,7 @@
 
 ---
 
-## Board Elections with *Ivan Avery Frey*.
+## Board Elections with *Ivan Frey*.
 
 ---
 
