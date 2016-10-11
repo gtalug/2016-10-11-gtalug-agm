@@ -10,7 +10,7 @@
 
 ---
 
-## Board Elections (if necessary) with *Ivan Frey*.
+## Board Elections _(if necessary)_ with *Ivan Frey*.
 
 ---
 
